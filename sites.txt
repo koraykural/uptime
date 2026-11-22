@@ -1,0 +1,8 @@
+# name  url  (must answer 2xx; backends' /healthz also checks the database)
+koraykural.com                https://koraykural.com/
+sorting-algorithm-visualizer  https://sorting-algorithm-visualizer.koraykural.com/
+wordle-finder                 https://wordle-finder.koraykural.com/
+front-armor                   https://front-armor.koraykural.com/
+puzzlr                        https://puzzlr.koraykural.com/healthz
+ituprogram                    https://ituprogram.koraykural.com/healthz
+ask-me                        https://ask-me.koraykural.com/healthz
